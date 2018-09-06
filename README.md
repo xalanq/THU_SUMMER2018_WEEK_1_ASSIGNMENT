@@ -4,6 +4,10 @@
 
 **除了加分项3，其余的都做了**
 
+## 界面
+
+![](https://raw.githubusercontent.com/xalanq/THU_Summer2018_Week1_Assignment/master/doc/view.png)
+
 ## 使用方法
 
 * 插入管道 - 选中相应管道后按Insert键
