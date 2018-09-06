@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="icon/about_black.png">res/about_black.png</file>
+        <file alias="icon/about_white.png">res/about_white.png</file>
+        <file alias="icon/delete_black.png">res/delete_black.png</file>
+        <file alias="icon/delete_white.png">res/delete_white.png</file>
+        <file alias="icon/insert_black.png">res/insert_black.png</file>
+        <file alias="icon/insert_white.png">res/insert_white.png</file>
+        <file alias="icon/new_black.png">res/new_black.png</file>
+        <file alias="icon/new_white.png">res/new_white.png</file>
+        <file alias="icon/icon.ico">res/icon.ico</file>
+        <file alias="img/arrow_down.png">res/arrow_down.png</file>
+        <file alias="img/arrow_left.png">res/arrow_left.png</file>
+        <file alias="img/arrow_right.png">res/arrow_right.png</file>
+        <file alias="img/arrow_up.png">res/arrow_up.png</file>
+    </qresource>
+</RCC>
